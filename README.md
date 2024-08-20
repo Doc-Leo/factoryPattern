@@ -1,1 +1,1 @@
-# factoryPattern
+# Revised factoryPattern
